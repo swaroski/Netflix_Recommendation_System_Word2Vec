@@ -1,0 +1,2 @@
+# Netflix_Recommendation_System_Word2Vec
+Netflix Recommendation System using Word2Vec
